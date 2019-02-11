@@ -1,6 +1,9 @@
 body{
   font-family: "Verdana", sans-serif;
+  color: white;
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
 }
-.background{
-  background-image: image(img/Dota Wallpaper);
+.select-box{
+  color: black;
 }
